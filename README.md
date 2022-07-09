@@ -10,5 +10,7 @@
 
 [![Eric Karugu's github stats](https://github-readme-stats.vercel.app/api?username=erickarugu&count_private=true&show_icons=true&theme=dark)](https://github.com/erickarugu/) 
 
+<!--
 ![Metrics](https://metrics.lecoq.io/erickarugu)
 ![Languages Over The Last 7 Days](https://github-readme-stats.vercel.app/api/wakatime?username=erickarugu&layout=compact)
+-->
