@@ -5,7 +5,7 @@
 [![github](https://img.shields.io/github/followers/erickarugu?logo=github&style=plastic)](https://github.com/erickarugu?tab=followers)
 
 - 🔭 I’m currently working on [https://instadriver.co](https://instadriver.co)
-- 💬 Ask me about JavaScript, Python, TypeScript, ReactJs, and startups
+- 💬 Ask me about JavaScript, TypeScript, ReactJs, NestJs, GCP and startups
 - 📫 How to reach me: [@karugu_eric](https://twitter.com/karugu_eric) on Twitter or [erickarugu.com](https://erickarugu.com)
 
 [![Eric Karugu's github stats](https://github-readme-stats.vercel.app/api?username=erickarugu&count_private=true&show_icons=true&theme=dark)](https://github.com/erickarugu/) 
